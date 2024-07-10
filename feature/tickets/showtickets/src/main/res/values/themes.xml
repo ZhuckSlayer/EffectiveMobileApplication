@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Test" parent="Widget.MaterialComponents.Button">
+        <item name="color"> @color/cardview_dark_background</item>
+    </style>
+</resources>

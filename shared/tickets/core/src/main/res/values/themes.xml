@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="title4Italic">
+        <item name="android:textSize">14sp</item>
+        <item name="android:lineHeight">17dp</item>
+        <item name="android:textColor">@color/textColor</item>
+        <item name="android:fontFamily">@font/sf_pro_display_regular_italic</item>
+    </style>
+
+    <style name="title4Regular">
+        <item name="android:textSize">14sp</item>
+        <item name="android:lineHeight">17dp</item>
+        <item name="android:textColor">@color/textColor</item>
+        <item name="android:fontFamily">@font/sf_pro_display_regular</item>
+    </style>
+    <style name="title3SemiBold">
+        <item name="android:textSize">16sp</item>
+        <item name="android:lineHeight">17dp</item>
+        <item name="android:textColor">@color/textColor</item>
+        <item name="android:fontFamily">@font/sf_pro_display_semibold</item>
+    </style>
+
+    <style name="title4RegularForHint">
+        <item name="android:textSize">14sp</item>
+        <item name="android:lineHeight">17dp</item>
+        <item name="android:textColor">@color/hintText</item>
+        <item name="android:fontFamily">@font/sf_pro_display_regular</item>
+    </style>
+    <style name="blueOpacity">
+        <item name="android:opacity">translucent</item>
+        <item name="color">@color/blue</item>
+    </style>
+</resources>
+

@@ -1,0 +1,10 @@
+<resources>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cities">%s-%s</string>
+    <string name="date">%s, 1 пассажир</string>
+    <string name="priceForShowTickets">%s ₽</string>
+    <string name="timeFly">%sч в пути</string>
+    <string name="noTransfer">/Без пересадок</string>
+    <string name="mostComfortable">Самый удобный</string>
+</resources>
